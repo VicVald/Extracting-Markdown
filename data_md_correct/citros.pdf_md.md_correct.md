@@ -1,0 +1,183 @@
+## 3.4. Citros
+
+## (Gênero Citrus )
+
+José Antonio Quaggio ( 1 ) Dirceu Mattos Jr. ( ) 1 Rodrigo Marcelli Boaretto ( ) 1 Fernando Cesar Bachiega Zambrosi ( 1 ) 1
+
+Heitor Cantarella ( )
+
+## 1. Considerações gerais
+
+A brasileira  de  frutas  (cerca  de  55%  do  volume  das  oito citricultura  contribui  com  o  maior  volume  da  produção principais frutíferas), obtido com alta produtividade, resultado  da  adoção  de  tecnologias  como  adensamento  de  plantio, adubação, irrigação e fertirrigação. Os citros compreendem um grande grupo de plantas do gênero Citrus spp. (laranjas, tangerinas, mexericas, limões, limas ácidas como o Tahiti e o Galego, e doces como a Lima-da-pérsia,  pomelo,  cidra,  laranja-azeda  e  toranjas)  e  outros  gêneros correlatos ( Fortunella e Poncirus ) ou híbridos da família Rutaceae. Devido à  importância  da  citricultura  para  o  agronegócio  paulista  e  o  volume de  informações  geradas  pela  pesquisa,  as  recomendações  de  manejo de  calagem  e  adubação  dos  citros  são  apresentadas  em  um  capítulo independente de outras frutíferas.
+
+## 2. Exportação de nutrientes
+
+As  quantidades  de  nutrientes  exportadas  com  a  colheita  são indicadores importantes para o dimensionamento das adubações e para o cálculo de eficiência de aproveitamento dos fertilizantes ao nível de propriedade  agrícola  ou  gleba  cultivada.  A  tabela  1  apresenta  as
+
+( 1 ) Instituto Agronômico (IAC), Campinas (SP).
+
+quantidades de nutrientes exportadas com a colheita de frutas cítricas. Esses valores se aplicam para pomares com produtividades de 30 a 60 t ha -1 de frutos.
+
+Tabela 1. Conteúdo de nutrientes exportado por tonelada de fruto colhido
+
+|  | N | P | K | Ca | Mg | S |
+| -------- | --------- | ----------- | --------- | ----------- | ----------- | ----------- |
+| Citros | 1,9-2,4 | 0,15-0,21 | 1,3-2,1 | 0,45-0,64 | 0,11-0,15 | 0,10-0,18 |
+|  | B | Cu | Fe |  | Mn | Zn |
+| Citros | 2,0-6,0 | 0,4-0,7 | 3,0-5,0 |  | 1,0-3,0 | 1,0-3,0 |
+
+## 3. Amostragem e análise química de folha
+
+Os citros armazenam  grande  quantidade de nutrientes na biomassa  que  podem  ser  redistribuídos,  principalmente,  para  órgãos em desenvolvimento como folhas e frutos. Assim, a análise foliar é uma ferramenta útil para complementar a análise de solo e aferir o equilíbrio nutricional da planta. Além disso, para o caso do nitrogênio (N), cujos métodos de análise de solo não têm consistência no diagnóstico, o teor do nutriente  nas  folhas  é  usado  como  critério  direto  de  avaliação  da disponibilidade de N para as plantas.
+
+## 4. Instruções para a amostragem foliar para citros
+
+Coletar a 3ª ou 4ª folha do ramo com fruto terminal, geradas na primavera, com aproximadamente seis meses de idade, normalmente de fevereiro a março, em ramos com frutos de 2 a 4 cm de diâmetro. Amostrar pelo menos 20 árvores por talhão, coletando quatro folhas não danificadas por árvore, uma em cada quadrante e na altura mediana da copa.
+
+Pulverizações  com  adubos  foliares,  e/ou  o  uso  de  defensivos contendo  nutrientes,  podem  deixar  parte  dos  elementos  aderidos  na
+
+superfície do limbo foliar por vários meses e levar ao erro de interpretação da análise; assim, quando possível, é recomendável não coletar folhas em um intervalo mínimo 30 dias após a última pulverização. As amostras devem  ser  acondicionadas  em  sacos  de  papel  e  enviadas  para  o laboratório em período inferior a dois dias após a coleta no campo.
+
+Os valores de concentrações de nutrientes nas folhas de citros e suas interpretações estão na tabela 2.
+
+Tabela 2. Faixas  para  interpretação de teores de macro e micronutrientes nas folhas de citros, geradas na primavera, com seis meses de idade, de ramos com fruto terminal com 2 a 4 cm de diâmetro
+
+| Nutriente | Baixo | Adequado | Alto |
+| ------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+|  | ____________________  g kg -1 ____________________ | ____________________  g kg -1 ____________________ | ____________________  g kg -1 ____________________ |
+| N: Citros geral | <25 | 25-30 | >30 |
+| N: Limões e lima ácida Tahiti | <20 | 20-24 | >24 |
+| P | <1,2 | 1,2-1,6 | >1,6 |
+| K | <10 | 10-15 | >15 |
+| Ca | <35 | 35-50 | >50 |
+| Mg | <3,5 | 3,5-5,0 | >5,0 |
+| S | <2,0 | 2,0-3,0 | >3,0 |
+|  | ___________________  mg kg -1 ___________________ | ___________________  mg kg -1 ___________________ | ___________________  mg kg -1 ___________________ |
+| B | <50 | 50-150 | >150 |
+| Cu | <10 | 10-20 | >20 |
+| Fe | <50 | 50-150 | >150 |
+| Mn | <30 | 30-60 | >60 |
+| Mo | <0,5 | 0,5-2,0 | >2,0 |
+| Zn | <35 | 35-70 | >70 |
+
+Teores altos dos micronutrientes metálicos, especialmente Cu, às vezes podem ser encontrados na análise de folha sem que esta apresente sintomas  de  toxicidade,  o  que  pode  levar  à  interpretação  errônea  do estado nutricional, pois estes nutrientes podem apenas estar aderidos à superfície da folha sem exercer papel metabólico na planta.
+
+Os teores foliares dos nutrientes não dependem unicamente da disponibilidade do elemento no solo, pois sofrem influência de vários outros  fatores  como  taxa  de  crescimento  da  planta,  idade  da  folha, combinações copa e porta-enxerto, e interações com outros nutrientes. Os teores de nutrientes com alta redistribuição dentro da planta, como N, P e K, diminuem com a idade da folha, enquanto os teores de nutriente imóveis como Ca e B, por exemplo, aumentam nas folhas mais velhas. Assim, pelos motivos citados, as folhas coletadas para análise devem ser da mesma idade daquelas que foram usadas na tabela de interpretação (Tabela 2).
+
+## 5. Amostragem de solo em pomares
+
+A  amostragem  de  solo  deve  ser  feita  em  glebas  ou  talhões homogêneos quanto à cor e textura do solo, posição no relevo e manejo do pomar, idade das árvores, combinações de copa e porta-enxerto e produtividade.
+
+Coletar  as  amostras  nas  profundidades  de  0-20  cm  para  as recomendações de adubação e a calagem. Coletar solo na camada de 20-40 cm para o diagnóstico de barreiras químicas ao desenvolvimento das raízes, ou seja, deficiências de Ca e ou excesso de alumínio, como também  para  aferir  movimentação  ou  perda  de  nutrientes  abaixo da  camada  com  maior  concentração  de  raízes.  Coletar  de  15  a  20 subamostras por talhão, com trados do tipo holandês ou sonda.
+
+Antes da implantação do pomar, coletar o solo nas profundidades de 0-0 cm e 20-40 cm percorrendo a área em zigue-zague. Após o plantio, em pomares não irrigados, amostrar na faixa de adubação, sendo uma subamostra coletada cerca de 50 cm para dentro e outra 50 cm para fora da projeção da copa das árvores. Para pomares fertirrigados, amostrar dentro do bulbo úmido, de 20 cm a 30 cm da linha de gotejo em direção oposta ao tronco da árvore.
+
+Amostrar o solo anualmente na camada de 0-20 cm e a cada dois anos na camada de 20-40 cm. Coletar as amostras após 2/3 da adubação anual ter sido realizada, mantendo um intervalo mínimo de 30 a 45 dias após o último parcelamento da adubação sólida.
+
+## 6. Recomendações de adubação e calagem para os citros
+
+Introdução: As recomendações para o manejo da fertilidade do solo na citricultura paulista contemplam todo avanço obtido nas últimas duas décadas de pesquisa no Brasil. Os novos conhecimentos certamente vêm contribuindo para o grande salto em produtividade da citricultura paulista nos últimos anos, que passou de 10 t ha -1 em 1980 para 40 t ha -1 em 2020, sendo que os melhores pomares alcançam médias acima de 50 t ha -1 .
+
+Os citros têm algumas particularidades e demandas nutricionais diferenciadas,  como  o  fato  do  cálcio  ser  o  nutriente  em  maiores concentrações nas folhas em comparação com outras culturas. Espécies e porta-enxertos também têm demandas diferenciadas. Entre os  avanços  recentes  destacam-se  os  ajustes  nas  recomendações  de nutrientes dos novos porta-enxertos que substituíram o limão-cravo; as novas informações sobre a resposta e o manejo de micronutrientes em citros  e  o  preparo  reduzido  solo,  com  plantio  das  mudas  em  faixas  e incorporação profunda de calcário e fósforo no sulco de plantio, o que proporciona  desenvolvimento  mais  rápido  das  mudas,  produtividade mais  precoce  e  boa  conservação  do  solo.  Outro  fator  importante  no ganho de produtividade da citricultura foi o adensamento de plantio, associado com irrigação e fertirrigação, que tem permitido aumentos de 20%a25%naeficiênciadeusodenutrientes.
+
+A presente tabela de recomendações leva em conta exigências de espécies e porta-enxertos, e também das características de frutas para diferentes mercados. Por exemplo, o mercado de frutas frescas requer frutos de maior tamanho e casca Àrme; para a indústria de sucos, a adubação visa otimizar a produtividade por área.
+
+Espaçamento: O adensamento de plantio na citricultura aumentou nos últimos anos devido principalmente à incidência do HLB ou greening ,  cujo  manejo pode levar à erradicação de grande número de plantas anualmente. Desta maneira, o espaçamento de plantio está sendo reduzido com o objetivo de mitigar as perdas de plantas ao longo da vida útil dos talhões. Atualmente, os espaçamentos recomendados entrelinhas de plantio variam de 6 m a 7 m, enquanto os entre plantas variam de 2 m a 3 m.
+
+Calagem: Os citros são exigentes em cálcio e produzem melhor em  solos  próximos  da  neutralidade.  A  calagem  no  plantio  merece atenção especial, pois esta é a melhor oportunidade para a incorporação do  calcário  e  para  corrigir  a  acidez  nas  camadas  mais  profundas  do solo. Antes da implantação do pomar, o calcário deve ser aplicado na faixa de plantio das mudas, com largura ao redor de 2 m, e incorporado com grade pesada o mais profundamente possível. Aplicar calcário para elevar  a  saturação  por  bases (V)  a  70%  e  manter  o  teor  de  magnésio em pelo menos 8 mmol  dm -3  na camada de 0-20 cm de profundidade. c Caso  a  saturação  por  bases  da  camada  de  20-40  cm  seja  inferior  a 25%, aumentar em 50% a dose de calcário aplicado nesta faixa. Além da calagem na faixa, uma dose adicional de calcário deve ser aplicada também no sulco de plantio, à taxa de 0,5 kg ha -1  por metro de sulco, e posteriormente misturado ao solo até a profundidade de 25 cm a 30 cm com subsolador de três hastes, o qual também realiza a incorporação do fósforo em profundidade, como descrito adiante. O restante da área dos  talhões,  ou  seja,  o  meio  das  ruas,  deverá  receber  a  mesma  dose de  calcário,  em  t  ha -1 ,  recomendada  para  a  faixa  de  plantio,  porém  a incorporação deverá ser feita em ruas alternadas para a maior proteção do solo contra a erosão.
+
+Em pomares já plantados, cerca de 70% da dose de calcário deve ser aplicada sob a projeção das copas das plantas e o restante na rua. Em pomares fertirrigados, toda a dose deve ser aplicada sob a projeção da copa,devidoàacidiÀcaçãodosolosermaisintensanestaregião.
+
+Gessagem: Em pomares instalados, da mesma forma que o calcário, o gesso deve ser distribuído de forma localizada na faixa de adubação, quando os teores foliares de cálcio forem menores que 35 g kg -1 . Assim, aplicar 1,0, 1,5 ou 2,0 t ha -1 de gesso, respectivamente, para solos arenosos (&lt;200 g kg -1 de  argila),  de  textura  média  (200-400  g  kg -1 de  argila)  ou argilosos (&gt;400 g kg -1 de argila).
+
+Adubação de sulco de plantio: Aplicar 90 g de P O  por metro de 2 5 sulco, que de acordo com o espaçamento varia de 120 a 160 kg ha -1 de P O . 2 5 A experiência de vários anos somada aos resultados de pesquisas tem demonstrado as vantagens da adubação desta aplicação extra de P em profundidade no sulco de plantio após a calagem. O citricultor deve dar preferência a fontes de fosfatos solúveis em água, e se possível, contendo zinco. Esta é a única oportunidade para aplicar P em profundidade. Para
+
+facilitar a incorporação de calcário no sulco e simultaneamente aplicar P em profundidade, um subsolador triplo, dotado de dispositivo capaz de aplicar P junto das suas hastes, pode ser utilizado.
+
+Adubação de formação: Durante a fase de formação do pomar, até o quarto ano, as doses de N, P O  e K O recomendadas levam em 2 5 2 conta  a  idade  do  pomar  e  os  resultados  da  análise  de  solo  para  P  e K para atender às necessidades de crescimento da copa e o início de produção de frutos (Tabela 3). Ajustes nas doses recomendadas de P e K devem ser feitos levando em conta o porta-enxerto plantado. As doses de N e K devem ser parceladas de 4 a 6 vezes, entre setembro a março. Maior número de parcelamentos é necessário nos primeiros anos após o plantio das mudas. A aplicação de P deve ser preferencialmente em dose única, antes do primeiro parcelamento de N e K, geralmente entre os meses de julho a agosto.
+
+No  passado,  as  recomendações  de  nutrientes  para  o  período de formação dos citros eram feitas para plantas até a idade de 4 a 5 anos.  Entretanto,  o  aumento  da  densidade  de  plantio  e  plantas  mais próximas entre si, permitiu ganhos na eficiência fer tilizante. Além disso, com  o  adensamento  de  plantio,  o  antigo  cálculo  de  dose  de  adubo por planta resultava em doses por área muito elevadas, o que gerava plantas  excessivamente  vigorosas.  Para  superar  esses  problemas,  as recomendações  atuais  para  a  formação  dos  citros  são  calculadas  por área, conforme a tabela abaixo.
+
+Tabela 3. Recomendações de adubação para citros em formação, em função da idade da planta e da análise do solo (1)
+
+| Idade | N | P resina, mg dm -3 | P resina, mg dm -3 | P resina, mg dm -3 | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c |
+| --------- | ---------------- | ---------------------- | ---------------------- | ---------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| Idade | N | <16 | 16-40 | >40 | <1,6 | 1,6-3,0 | >3,0 |
+| Anos | kg ha -1  de N | ______  kg ha | -1 2 | de P O   ______ 5 | ______  kg ha | -1 2 | de K O  ______ |
+| 0-1 | 70 | 15 | 15 | 15 | 15 | 10 | 0 |
+| 1-2 | 100 | 60 | 45 | 30 | 50 | 30 | 10 |
+| 2-3 | 140 | 90 | 60 | 45 | 90 | 60 | 40 |
+| 3-4 | 180 | 120 | 90 | 60 | 120 | 90 | 60 |
+
+(1) Para copas sobre tangerinas Cleópatra e Sunki, aumentar a dose de P O  em 2 5 20%; para copas sobre citrumelo Swingle aumentar a dose de K O em 20%. 2
+
+Adubação de produção: A adubação para pomares em produção leva  em  conta,  além  da  disponibilidade  de  nutrientes  no  solo,  os teores foliares de N e a produtividade esperada. Foram estabelecidas recomendações da adubação N, P e K para os grupos de variedades de laranjas, considerando a qualidade e o destino da fruta, que pode ser para a indústria (Tabela 4) ou para o mercado in natura (Tabela 5). A tabela 5 também deve ser utilizada para as tangerinas e o Tangor Murcott, os quais possuem demandas por nutrientes semelhantes às das laranjas  para consumo in natura. A lima ácida Tahiti e os limões verdadeiros têm recomendações distintas e para estes, a tabela 6 deve ser utilizada.A lima ácida e os limões são mais eÀcientes no uso de N, razão pela qual as faixas de interpretação de N foliar são menores do que as de outros citros.
+
+A  adubação  deve  ser  feita  no  período  das  águas  (setembro  a março),  pois  a  demanda  por  nutrientes  pelos  citros  é  maior  no  início da primavera, quando ocorre o fluxo mais intenso de vegetação, e se estende até o início do outono, quando deve haver reserva suÀciente e  equilíbrio  de  nutrientes  na  biomassa  das  plantas  para  garantir  os processosnormaisdediferenciaçãoÁoral,Áoraçãoefixação dos frutos.
+
+O parcelamento das doses de N e K é feito em 3 ou 4 aplicações durante o ano, o que aumenta a eficiência da adubação, por reduzir as perdas de nutrientes no solo com a água de drenagem, principalmente em solos arenosos, e por adequar a demanda de nutrientes em diferentes períodos do desenvolvimento das plantas. Aplicar 40% do N e K na época do florescimento e o restante dividido entre outubro e março do ano seguinte. O P pode ser aplicado numa só vez, no primeiro parcelamento, especialmente quando o solo do pomar apresentar teor de P abaixo de 15 mg dm -3 .
+
+Em variedades precoces, tais como Hamlin, Valência Americana, Rubi e Westin, maior proporção de adubo deve ser aplicada mais cedo: 40% na primeira, 40% na segunda e 20% na última parcela, a qual deverá serrealizadaatéofinaldoverão.
+
+Tabela 4. Recomendações de adubação de laranjas para a indústria, em função das análises de solo e folhas e da produtividade esperada
+
+| Produtivi- dade  esperada | N foliar , g kg -1 | N foliar , g kg -1 | N foliar , g kg -1 | P resina, mg dm -3 | P resina, mg dm -3 | P resina, mg dm -3 | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| Produtivi- dade  esperada | <25 | 25-30 | >30 | <16 | 16-40 | >40 | <1,6 | 1,6-3,0 | >3,0 (1) |
+| t ha -1 | ___  kg ha -1  de N  ___ | ___  kg ha -1  de N  ___ | ___  kg ha -1  de N  ___ | __  kg ha -1  de P O   2 5 __ | __  kg ha -1  de P O   2 5 __ | __  kg ha -1  de P O   2 5 __ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ |
+| <30 | 160 | 140 | 90 | 80 | 60 | 30 | 100 | 80 | 60 |
+| 31-40 | 180 | 160 | 120 | 100 | 80 | 40 | 120 | 100 | 80 |
+| 41-50 | 200 | 180 | 160 | 120 | 100 | 50 | 160 | 140 | 100 |
+| 51-60 | 220 | 200 | 180 | 140 | 120 | 60 | 180 | 160 | 120 |
+| >60 | 260 | 220 | 200 | 160 | 140 | 70 | 200 | 180 | 140 |
+
+(1) Para teores muito altos de P (&gt;80 mg dm -3 ) e de K (&gt;6,0 mmol  dm -3 c ) não aplicar esses nutrientes para evitar desequilíbrios entre nutrientes.
+
+Tabela  5. Recomendações  de  adubação  de  laranjas  para  consumo  in  natura, tangerinas  e  tangor  Murcott,  em  função  das  análises  do  solo  e  folhas  e  da produtividade esperada
+
+| Produtivi- dade  esperada | N foliar , g kg -1 | N foliar , g kg -1 | N foliar , g kg -1 | P resina, mg dm -3 | P resina, mg dm -3 | P resina, mg dm -3 | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| Produtivi- dade  esperada | <25 | 25-30 | >30 | <16 | 16-40 | >40 | <1,6 | 1,6-3,0 | >3,0 (1) |
+| t ha -1 | ___  kg ha -1  de N  ___ | ___  kg ha -1  de N  ___ | ___  kg ha -1  de N  ___ | __  kg ha -1  de P O   2 5 __ | __  kg ha -1  de P O   2 5 __ | __  kg ha -1  de P O   2 5 __ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ |
+| <30 | 120 | 100 | 80 | 80 | 60 | 30 | 120 | 100 | 80 |
+| 31-40 | 140 | 120 | 100 | 100 | 80 | 40 | 160 | 140 | 100 |
+| 41-50 | 180 | 160 | 120 | 120 | 100 | 50 | 200 | 180 | 140 |
+| >50 | 200 | 180 | 160 | 140 | 120 | 60 | 220 | 200 | 160 |
+
+(1) Para teores muito altos de P (&gt;80 mg dm -3 ) e de K (&gt;6,0 mmol  dm -3 c ) não aplicar esses nutrientes para evitar desequilíbrios entre nutrientes.
+
+Tabela 6. Recomendações de adubação para lima ácida Tahiti e limões verdadeiros, em função das análises do solo e folhas e da produtividade esperada
+
+| Produtivi- dade  esperada | N f oliar , g kg -1 | N f oliar , g kg -1 | N f oliar , g kg -1 | P resina, mg dm -3 | P resina, mg dm -3 | P resina, mg dm -3 | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c | K +  trocável, mmol  dm -3 c |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | -------------------------------- | -------------------------------- | -------------------------------- |
+| Produtivi- dade  esperada | <20 | 20-24 | >24 | <16 | 16-40 | >40 | <1,6 | 1,6-3,0 | >3,0 (1) |
+| t ha -1 | ____  kg ha -1  de N  ____ | ____  kg ha -1  de N  ____ | ____  kg ha -1  de N  ____ | __  kg ha -1  de P O 2 5  __ | __  kg ha -1  de P O 2 5  __ | __  kg ha -1  de P O 2 5  __ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ | ____  kg ha -1  de K O  2 ____ |
+| <30 | 100 | 80 | 60 | 60 | 40 | 20 | 140 | 120 | 100 |
+| 31-40 | 120 | 100 | 80 | 80 | 60 | 30 | 160 | 140 | 120 |
+| 41-50 | 160 | 140 | 100 | 100 | 80 | 40 | 200 | 180 | 160 |
+| 51-60 | 180 | 160 | 120 | 120 | 100 | 50 | 240 | 220 | 180 |
+| >60 | 220 | 180 | 160 | 140 | 120 | 60 | 260 | 240 | 200 |
+
+(1) Para teores muito altos de P (&gt;80 mg dm -3 ) e de K (&gt;6,0 mmol  dm -3 c ) não aplicar esses nutrientes para evitar desequilíbrios entre nutrientes.
+
+Adubação com micronutrientes: Os sintomas visuais de deficiência B, Zn e Mn são os mais frequentes em pomares de citros. A deficiência de Cu é mais comum durante a formação do pomar , uma vez que fungicidas cúpricos praticamente não são aplicados nessa fase. DeficiênciadeCutambémpodeserinduzidaporexcessodeN.
+
+Em  plantas  com  idade  inferior  a  4  anos,  recomenda-se  4  a  6 aplicações anuais, entre setembro a maio, de B, Cu, Mn e Zn nas folhas. Em pomares em produção realizar de  3  a  4  pulverizações  com  Mn  e Zn, do início da primavera até o final das chuvas, procurando atingir as brotações novas e folhas expandidas. A adubação foliar com B, que pode ser juntada à de Mn e Zn, deve ser praticada somente como complemento à  adubação  via  solo,  geralmente  em  pomares  em  formação,  pois  a eficiênciadeusodessenutrienteébemmaiorquandoaplicadonosolo.
+
+A  aplicação  de  B  deve  ser  feita  preferencialmente  via  solo, parcelado  em  2  ou  3  vezes,  na  forma  de  ácido  bórico  dissolvido  na solução  de  herbicidas  de  contato,  como  o  glifosato,  que  constitui  a formamaispráticaeeÀcientedeaplicaçãodonutriente.Geralmentesão feitas de 2 a 3 aplicações de herbicidas por ano, com o volume de calda de cerca de 200 L ha -1 de área tratada, na qual a dose de 1 kg ha -1  de B (6 kg ha -1 de  ácido bórico) é facilmente dissolvida. Aplicar 2 kg ha -1
+
+de B,  independentemente da idade do pomar, com maior número de parcelamentos em pomares recém-plantados. Quando o solo possuir teor de B abaixo de 0,6 mg dm -3  ou o porta-enxerto for o citrumelo Swingle, que é mais exigente em B, aumentar a dose anual para 3 kg ha -1 de B.
+
+As fontes mais recomendadas de micronutrientes metálicos para aplicação foliar são sais solúveis formados com íons sulfato, cloreto ou nitrato. Para o Cu, a mistura de sulfato e hidróxido tem sido a forma mais eÀciente para fornecer o nutriente e evitar toxicidade devido ao uso exclusivo na forma de sulfato. É importante ressaltar que o oxicloreto de Cu, comumente utilizado como fungicida, tem eficiência limitada como fonte do nutriente.
+
+As  soluções  para  pulverização  foliar  são  preparadas  com  ureia como coadjuvante (ureia a 2,5 g L -1 ) e os micronutrientes, na forma de sais de sulfato e ácido bórico nas seguintes concentrações (em mg L -1  de cada nutriente): B (200 a 300), Cu (100 a 125) Mn (300 a 700) e Zn (500 a 1.000). Nessa solução, para cada 1 kg de sulfato de Cu (pentahidratado) acrescentar  1,5  kg  de  hidróxido  de  Cu.  Essas  concentrações  foram deÀnidas para fornecer anualmente, em três aplicações foliares, as seguintes quantidades de micronutrientes: Cu (1,5 a 3,0 kg ha -1 , sulfato + hidróxido), Mn (1,8 a 4,2 kg ha -1 ) e Zn (3,0 a 6,0 kg ha -1 ). O volume ideal de calda para a aplicação desses micronutrientes é de aproximadamente 2.000 L ha -1 .
+
+As menores concentrações de micronutrientes das recomendações acima são para a adubação de manutenção, enquanto as maiores são para a correção dos sintomas visíveis de deficiência. As soluções mais concentradas devem ser aplicadas durante as horas mais frescas do dia ou à noite, evitando também mistura com óleos mineral ou vegetal para não causar queimaduras em folhas e frutos.
+
+Para as fontes de micronutrientes nas formas de cloreto ou nitrato, as concentrações acima indicadas devem ser reduzidas de 2 a 3 vezes; portanto,  número  maior  de  aplicações  será  necessário  para  manter  a dose anual do nutriente desejada.
+
+Adubação foliar complementar: O  Mg  tem  sido  um nutriente pouco utilizado no manejo da adubação dos citros, apesar dos resultados de pesquisa que demonstram sua importância para a nutrição de plantas, aumento  da  produtividade  e  qualidade  dos  produtos.  A  adubação
+
+foliar com o Mg é uma estratégia eÀciente para corrigir a deficiência desse nutriente em citros, principalmente pela facilidade de aplicação e possibilidade de misturas com outros produtos na calda de pulverização. Recomenda-se  a  aplicação  de  solução  com  5-10  kg  de  sulfato  de magnésio hidratado por 2.000 L da calda de pulverização, juntamente com as aplicações de micronutrientes.
+
+Experimentos recentes em condições controladas com citros têm demonstrado que a adição de Mo aumenta a eficiência de uso de N. Essas respostas poderão ocorrer em pomares com altas produtividades, em solos com acidez moderada, arenosos e com baixo teor de matéria orgânica. A adubação foliar é também a forma mais eÀciente para fornecer Mo para os citros. Nessas condições, recomenda-se de 2 a 3 aplicações anuais de solução contendo de 20 a 40 mg L -1  de Mo, o que corresponde aproximadamente de 100 a 200 g de molibdato de amônio ou de sódio por 2.000 L de calda.
